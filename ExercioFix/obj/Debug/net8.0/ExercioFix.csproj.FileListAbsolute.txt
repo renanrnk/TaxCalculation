@@ -1,0 +1,14 @@
+C:\Desenvolvimento\C#\Herança e polimorfismo\ExercioFix\ExercioFix\bin\Debug\net8.0\ExercioFix.exe
+C:\Desenvolvimento\C#\Herança e polimorfismo\ExercioFix\ExercioFix\bin\Debug\net8.0\ExercioFix.deps.json
+C:\Desenvolvimento\C#\Herança e polimorfismo\ExercioFix\ExercioFix\bin\Debug\net8.0\ExercioFix.runtimeconfig.json
+C:\Desenvolvimento\C#\Herança e polimorfismo\ExercioFix\ExercioFix\bin\Debug\net8.0\ExercioFix.dll
+C:\Desenvolvimento\C#\Herança e polimorfismo\ExercioFix\ExercioFix\bin\Debug\net8.0\ExercioFix.pdb
+C:\Desenvolvimento\C#\Herança e polimorfismo\ExercioFix\ExercioFix\obj\Debug\net8.0\ExercioFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desenvolvimento\C#\Herança e polimorfismo\ExercioFix\ExercioFix\obj\Debug\net8.0\ExercioFix.AssemblyInfoInputs.cache
+C:\Desenvolvimento\C#\Herança e polimorfismo\ExercioFix\ExercioFix\obj\Debug\net8.0\ExercioFix.AssemblyInfo.cs
+C:\Desenvolvimento\C#\Herança e polimorfismo\ExercioFix\ExercioFix\obj\Debug\net8.0\ExercioFix.csproj.CoreCompileInputs.cache
+C:\Desenvolvimento\C#\Herança e polimorfismo\ExercioFix\ExercioFix\obj\Debug\net8.0\ExercioFix.dll
+C:\Desenvolvimento\C#\Herança e polimorfismo\ExercioFix\ExercioFix\obj\Debug\net8.0\refint\ExercioFix.dll
+C:\Desenvolvimento\C#\Herança e polimorfismo\ExercioFix\ExercioFix\obj\Debug\net8.0\ExercioFix.pdb
+C:\Desenvolvimento\C#\Herança e polimorfismo\ExercioFix\ExercioFix\obj\Debug\net8.0\ExercioFix.genruntimeconfig.cache
+C:\Desenvolvimento\C#\Herança e polimorfismo\ExercioFix\ExercioFix\obj\Debug\net8.0\ref\ExercioFix.dll
