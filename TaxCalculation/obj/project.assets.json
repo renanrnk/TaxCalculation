@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desenvolvimento\\C#\\Herança e polimorfismo\\ExercioFix\\ExercioFix\\ExercioFix.csproj",
-      "projectName": "ExercioFix",
-      "projectPath": "C:\\Desenvolvimento\\C#\\Herança e polimorfismo\\ExercioFix\\ExercioFix\\ExercioFix.csproj",
+      "projectUniqueName": "C:\\Desenvolvimento\\C#\\Herança e polimorfismo\\ExercioFix\\ExercioFix\\TaxCalculation.csproj",
+      "projectName": "TaxCalculation",
+      "projectPath": "C:\\Desenvolvimento\\C#\\Herança e polimorfismo\\ExercioFix\\ExercioFix\\TaxCalculation.csproj",
       "packagesPath": "C:\\Users\\renan\\.nuget\\packages\\",
       "outputPath": "C:\\Desenvolvimento\\C#\\Herança e polimorfismo\\ExercioFix\\ExercioFix\\obj\\",
       "projectStyle": "PackageReference",
